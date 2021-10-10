@@ -1,0 +1,16 @@
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/speaking-cs
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/speaking-cs.deps.json
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/speaking-cs.runtimeconfig.json
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/speaking-cs.runtimeconfig.dev.json
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/speaking-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/ref/speaking-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/bin/Debug/net5.0/speaking-cs.pdb
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.csproj.AssemblyReference.cache
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.AssemblyInfoInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.AssemblyInfo.cs
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/ref/speaking-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.pdb
+/mnt/Storage/Projects/netcore/c#book-code/speaking-cs/obj/Debug/net5.0/speaking-cs.genruntimeconfig.cache
